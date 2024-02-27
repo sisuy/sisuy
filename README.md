@@ -1,5 +1,6 @@
 ### Hi there 👋
 -  Hi, I’m Xieji Li.
-- 🔭 I’m a AI student, now I maily foucs on object detection and oriented object classfication.
-- 🌱 I’m foucsing on solving medical cv problem.(mainly about ovarian cancer)
-- 📫 How to reach me: lixieji@outlook.com
+- 🔭 I’m a master of AI student, now I am persuming my master degree in monash univeristy.
+  - Now I am looking for the opportunity to joining a research group in monash.
+- I have the background in aerial object detection model(oriented objection detection), and 3D or 2D medical segmentation(especially in semi-supervised method and contrast learning).
+- 📫 How to reach me: xlii0374@student.monash.edu
